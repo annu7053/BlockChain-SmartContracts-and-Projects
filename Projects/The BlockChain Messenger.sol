@@ -6,7 +6,7 @@ contract TheBlockChainMessenger {
 
     uint public changeCounter;
 
-    address public owner;
+    address public owner;me
 
     string public Message;
 
